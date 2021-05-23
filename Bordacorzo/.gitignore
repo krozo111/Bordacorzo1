@@ -64,4 +64,5 @@ node_modules/
 
 # dotenv environment variables file
 .env
+# caches para ver si aplica a giyhub
 *.cache
