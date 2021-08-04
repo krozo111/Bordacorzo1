@@ -1,0 +1,28 @@
+
+
+/* [dev-studio] */
+h1{
+   
+    font-family: HelveticaNeue Condensed;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 60px;
+    text-align: center;
+    color: #E40046;
+
+}
+
+
+
+span{
+    opacity: 0;
+    transition: all 0.5s ease;
+    display:  inline-block;
+
+ }
+
+ span.fade{
+    opacity: 1;
+   
+    
+ }
